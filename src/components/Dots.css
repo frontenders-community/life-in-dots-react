@@ -1,0 +1,21 @@
+.grid-container {
+    margin-top: 12px;
+}
+
+.grid {
+    margin-top: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4px;
+}
+
+label {
+    font-size: 2rem;
+    margin-right: 6px;
+}
+
+select {
+    padding: 6px;
+    font-size: 2rem;
+}

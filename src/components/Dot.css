@@ -1,0 +1,10 @@
+.dot {
+    border: 1px solid #000;
+    font-size: .5rem;
+}
+.colored {
+    background-color: red;
+}
+.circle {
+    border-radius: 50%;
+}
